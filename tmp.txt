@@ -1,0 +1,5 @@
+	import su.laf.wows.ScoreTimerUbController;
+
+	public class ScoreTimer extends Sprite
+	{
+		private var controller: ScoreTimerUbController;
